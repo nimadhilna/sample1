@@ -1,0 +1,20 @@
+
+Git Basics:
+Git:
+
+A version control system for tracking changes in files and facilitating collaboration.
+
+Key Terms:
+
+Repository: A storage space for your project.
+Commit: A snapshot of changes.
+Branch: A parallel version of your project.
+Merge: Combining changes from branches.
+Remote: An online version of your repository (e.g., GitHub).
+Basic Commands:
+git init: Initializes a new Git repository.
+git add .: Stages all changes for commit.
+git commit -m "message": Commits changes with a message.
+git push: Uploads changes to a remote repository.
+git pull: Fetches and merges changes from a remote repository.
+
